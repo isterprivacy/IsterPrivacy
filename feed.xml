@@ -3,7 +3,7 @@
     <title>Ister Privacy</title>
     <link href="http://isterprivacy.com/feed.xml" rel="self" />
     <link href="http://isterprivacy.com" />
-    <updated>2019-11-17T00:49:55-06:00</updated>
+    <updated>2019-11-17T01:26:46-06:00</updated>
     <author>
         <name>Ister Privacy</name>
     </author>
@@ -17,15 +17,16 @@
         <link href="http://isterprivacy.com/go-unlisted.html"/>
         <id>http://isterprivacy.com/go-unlisted.html</id>
 
-        <updated>2019-11-17T00:48:42-06:00</updated>
+        <updated>2019-11-17T01:26:41-06:00</updated>
             <summary>
                 <![CDATA[
-                    This service aims to remove your personal information from a number of data broker sites using proprietary software
+                    This service removes your personal information from data broker websites that threaten your right to privacy. Reducing your online profile protects your privacy in the digital age.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                This service aims to remove your personal information from a number of data broker sites using proprietary software
+                <p>This service removes your personal information from data broker websites that threaten your right to privacy. </p>
+<p>Reducing your online profile protects your privacy in the digital age.</p>
             ]]>
         </content>
     </entry>

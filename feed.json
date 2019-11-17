@@ -13,15 +13,15 @@
             "id": "http://isterprivacy.com/go-unlisted.html",
             "url": "http://isterprivacy.com/go-unlisted.html",
             "title": "Go Unlisted",
-            "summary": "This service aims to remove your personal information from a number of data broker sites using proprietary software",
-            "content_html": "This service aims to remove your personal information from a number of data broker sites using proprietary software",
+            "summary": "This service removes your personal information from data broker websites that threaten your right to privacy. Reducing your online profile protects your privacy in the digital age.",
+            "content_html": "<p>This service removes your personal information from data broker websites that threaten your right to privacy. </p>\n<p>Reducing your online profile protects your privacy in the digital age.</p>",
             "author": {
                 "name": "Ister Privacy"
             },
             "tags": [
             ],
             "date_published": "2019-11-17T00:48:42-06:00",
-            "date_modified": "2019-11-17T00:48:42-06:00"
+            "date_modified": "2019-11-17T01:26:41-06:00"
         },
         {
             "id": "http://isterprivacy.com/about-us.html",
