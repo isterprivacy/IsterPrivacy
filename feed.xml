@@ -3,22 +3,10 @@
     <title>Ister Privacy</title>
     <link href="http://isterprivacy.com/feed.xml" rel="self" />
     <link href="http://isterprivacy.com" />
-    <updated>2019-11-16T19:51:36-06:00</updated>
+    <updated>1969-12-31T18:00:00-06:00</updated>
     <author>
         <name>Ister Privacy</name>
     </author>
     <id>http://isterprivacy.com</id>
 
-    <entry>
-        <title>Ister Privacy - Coming soon!</title>
-        <author>
-            <name>Ister Privacy</name>
-        </author>
-        <link href="http://isterprivacy.com/ister-privacy-coming-soon.html"/>
-        <id>http://isterprivacy.com/ister-privacy-coming-soon.html</id>
-
-        <updated>2019-11-16T19:06:59-06:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
 </feed>

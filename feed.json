@@ -9,17 +9,5 @@
         "name": "Ister Privacy"
     },
     "items": [
-        {
-            "id": "http://isterprivacy.com/ister-privacy-coming-soon.html",
-            "url": "http://isterprivacy.com/ister-privacy-coming-soon.html",
-            "title": "Ister Privacy - Coming soon!",
-            "author": {
-                "name": "Ister Privacy"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-11-16T19:06:59-06:00",
-            "date_modified": "2019-11-16T19:06:59-06:00"
-        }
     ]
 }
