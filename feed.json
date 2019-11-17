@@ -5,6 +5,7 @@
     "home_page_url": "http://isterprivacy.com",
     "feed_url": "http://isterprivacy.com/feed.json",
     "user_comment": "",
+    "icon": "http://isterprivacy.com/media/website/Ister-Privacy-Services.png",
     "author": {
         "name": "Ister Privacy"
     },
