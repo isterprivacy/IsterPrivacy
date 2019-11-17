@@ -3,10 +3,50 @@
     <title>Ister Privacy</title>
     <link href="http://isterprivacy.com/feed.xml" rel="self" />
     <link href="http://isterprivacy.com" />
-    <updated>1969-12-31T18:00:00-06:00</updated>
+    <updated>2019-11-17T00:49:55-06:00</updated>
     <author>
         <name>Ister Privacy</name>
     </author>
     <id>http://isterprivacy.com</id>
 
+    <entry>
+        <title>Go Unlisted</title>
+        <author>
+            <name>Ister Privacy</name>
+        </author>
+        <link href="http://isterprivacy.com/go-unlisted.html"/>
+        <id>http://isterprivacy.com/go-unlisted.html</id>
+
+        <updated>2019-11-17T00:48:42-06:00</updated>
+            <summary>
+                <![CDATA[
+                    This service aims to remove your personal information from a number of data broker sites using proprietary software
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                This service aims to remove your personal information from a number of data broker sites using proprietary software
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About Us</title>
+        <author>
+            <name>Ister Privacy</name>
+        </author>
+        <link href="http://isterprivacy.com/about-us.html"/>
+        <id>http://isterprivacy.com/about-us.html</id>
+
+        <updated>2019-11-17T00:45:16-06:00</updated>
+            <summary>
+                <![CDATA[
+                    We are a kick ass company
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                We are a kick ass company
+            ]]>
+        </content>
+    </entry>
 </feed>

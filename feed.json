@@ -5,10 +5,37 @@
     "home_page_url": "http://isterprivacy.com",
     "feed_url": "http://isterprivacy.com/feed.json",
     "user_comment": "",
-    "icon": "http://isterprivacy.com/media/website/Ister-Privacy-Services.png",
     "author": {
         "name": "Ister Privacy"
     },
     "items": [
+        {
+            "id": "http://isterprivacy.com/go-unlisted.html",
+            "url": "http://isterprivacy.com/go-unlisted.html",
+            "title": "Go Unlisted",
+            "summary": "This service aims to remove your personal information from a number of data broker sites using proprietary software",
+            "content_html": "This service aims to remove your personal information from a number of data broker sites using proprietary software",
+            "author": {
+                "name": "Ister Privacy"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-17T00:48:42-06:00",
+            "date_modified": "2019-11-17T00:48:42-06:00"
+        },
+        {
+            "id": "http://isterprivacy.com/about-us.html",
+            "url": "http://isterprivacy.com/about-us.html",
+            "title": "About Us",
+            "summary": "We are a kick ass company",
+            "content_html": "We are a kick ass company",
+            "author": {
+                "name": "Ister Privacy"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-11-17T00:45:16-06:00",
+            "date_modified": "2019-11-17T00:45:16-06:00"
+        }
     ]
 }
